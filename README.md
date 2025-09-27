@@ -45,13 +45,13 @@ The goal is to showcase how raw financial data can be transformed into **clear, 
 ![Transaction by Month Line](https://github.com/Jenifarchandel/UPI-Transaction-Analysis-powerbi-Project/blob/main/Transaction%20by%20month%20line%20chart.png)
 
 ### 2. Transaction by Month (Column Chart)
-![Transaction by Month Column](Transaction by month column chart.png)
+![Transaction by Month Column](https://github.com/Jenifarchandel/UPI-Transaction-Analysis-powerbi-Project/blob/main/Transaction%20by%20month%20column%20chart.png)
 
 ### 3. Balance by Month (Line Chart)
-![Balance by Month Line](Balance by month line chart.png)
+![Balance by Month Line](https://github.com/Jenifarchandel/UPI-Transaction-Analysis-powerbi-Project/blob/main/Balance%20by%20month%20line%20chart.png)
 
 ### 4. Balance by Month (Column Chart)
-![Balance by Month Column](Balance by month column chart.png)
+![Balance by Month Column](https://github.com/Jenifarchandel/UPI-Transaction-Analysis-powerbi-Project/blob/main/Balance%20by%20month%20column%20chart.png)
 
 ---
 
