@@ -42,7 +42,7 @@ The goal is to showcase how raw financial data can be transformed into **clear, 
 ## 📷 Dashboard Snapshots
 
 ### 1. Transaction by Month (Line Chart)
-![Transaction by Month Line](Transaction by month line chart.png)
+![Transaction by Month Line](https://github.com/Jenifarchandel/UPI-Transaction-Analysis-powerbi-Project/blob/main/Transaction%20by%20month%20line%20chart.png)
 
 ### 2. Transaction by Month (Column Chart)
 ![Transaction by Month Column](Transaction by month column chart.png)
